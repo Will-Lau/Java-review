@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6808592-74eb-4dda-a7a1-fe20f620fe8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyProxy/DynamicInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyProxy/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyProxy/MyInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyProxy/MyProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,10 +56,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyProxy">
+  <component name="RunManager" selected="Application.DateFormatDemo">
     <configuration name="DFSAndBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSAndBFS" />
+      <option name="MAIN_CLASS_NAME" value="DFSAndBFS.DFSAndBFS" />
       <module name="MyThreadExecutor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateFormatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyDateFormat.DateFormatDemo" />
+      <module name="MyThreadExecutor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyDateFormat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,7 +104,7 @@
       </method>
     </configuration>
     <configuration name="MyThreadExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyThreadExecutor" />
+      <option name="MAIN_CLASS_NAME" value="ThreadPool.MyThreadExecutor" />
       <module name="MyThreadExecutor" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateFormatDemo" />
         <item itemvalue="Application.MyProxy" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DFSAndBFS" />
