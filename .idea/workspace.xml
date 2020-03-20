@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6808592-74eb-4dda-a7a1-fe20f620fe8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyProxy/DynamicInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyProxy/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyProxy/MyInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyProxy/MyProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,10 +37,17 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Proxy" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.21494253" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ann_l\Desktop\MyThreadExecutor\src\Proxy" />
+      <recent name="C:\Users\ann_l\Desktop\MyThreadExecutor\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,10 +61,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DFSAndBFS">
+  <component name="RunManager" selected="Application.MyProxy">
     <configuration name="DFSAndBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSAndBFS" />
       <module name="MyThreadExecutor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyProxy.Main" />
+      <module name="MyThreadExecutor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyProxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyProxy.MyProxy" />
+      <module name="MyThreadExecutor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyProxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,6 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyProxy" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.DFSAndBFS" />
         <item itemvalue="Application.MyThreadExecutor" />
       </list>
