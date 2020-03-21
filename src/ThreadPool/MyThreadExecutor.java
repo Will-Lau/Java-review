@@ -17,6 +17,7 @@ public class MyThreadExecutor {
                 new LinkedBlockingDeque<>(100),//workQueue
                 f=new MyThreadFactory("Liu")//factory
                 , new ThreadPoolExecutor.DiscardOldestPolicy());
+
         for(int i=0;i<105;i++){
             final int taskIndex=i;
             System.out.println(f.getStatus());

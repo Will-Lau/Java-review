@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6808592-74eb-4dda-a7a1-fe20f620fe8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HashMapDemo/HashMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decimal/DecimalDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyThreadExecutor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaReview.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFSAndBFS/DFSAndBFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSAndBFS/DFSAndBFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadPool/MyThreadExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadPool/MyThreadExecutor.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashMapDemo">
+  <component name="RunManager" selected="Application.DecimalDemo">
     <configuration name="DFSAndBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSAndBFS.DFSAndBFS" />
       <module name="JavaReview" />
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMapDemo.HashMapDemo" />
+    <configuration name="DecimalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Decimal.DecimalDemo" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashMapDemo.*" />
+          <option name="PATTERN" value="Decimal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyProxy.Main" />
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapDemo.HashMapDemo" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyProxy.*" />
+          <option name="PATTERN" value="HashMapDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecimalDemo" />
         <item itemvalue="Application.HashMapDemo" />
         <item itemvalue="Application.DateFormatDemo" />
         <item itemvalue="Application.DFSAndBFS" />
         <item itemvalue="Application.MyProxy" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584713281702</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;add HashMap&quot;">
+      <created>1584715143543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584715143543</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;add DateFormat&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;add DateFormat&quot;" />
+    <MESSAGE value="&quot;add HashMap&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;add HashMap&quot;" />
   </component>
 </project>
