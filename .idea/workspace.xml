@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6808592-74eb-4dda-a7a1-fe20f620fe8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AQS/AQS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RPC/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RPC/RemoteFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RPC/UseHelp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Socket/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Socket/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stream/BufferedReaderAndWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stream/BufferedStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stream/FileReadderAndWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stream/FileStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stream/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/MutiThread/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaReview/MutiThread/Demo.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +37,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.21494253" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -72,13 +60,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="BufferedReaderAndWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream.BufferedReaderAndWriter" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Socket.Client" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stream.*" />
+          <option name="PATTERN" value="Socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket.Client" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericDemo.Main" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Socket.*" />
+          <option name="PATTERN" value="GenericDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket.Server" />
+    <configuration name="SuperAndExtends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericDemo.SuperAndExtends" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Socket.*" />
+          <option name="PATTERN" value="GenericDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.SuperAndExtends" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RemoteFunc" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.BufferedReaderAndWriter" />
       </list>
     </recent_temporary>
   </component>
