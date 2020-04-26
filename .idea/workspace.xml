@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f6808592-74eb-4dda-a7a1-fe20f620fe8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/Stream/FileStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaReview/Stream/FileStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/Stream/outtest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaReview/Stream/outtest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stream/FileStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stream/FileStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stream/outtest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stream/outtest.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +64,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket.Client" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="FileStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream.FileStream" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Socket.*" />
+          <option name="PATTERN" value="Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RPC.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortAlgorithm.Main" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RPC.*" />
+          <option name="PATTERN" value="SortAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoteFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RPC.RemoteFunc" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RPC.Main" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.FileStream" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.SuperAndExtends" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.RemoteFunc" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
